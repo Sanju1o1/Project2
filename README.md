@@ -35,12 +35,8 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
-https://imgur.com/a/ExB9zR8
 
-<img src=[['http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/a/ExB9zR8)'](https://imgur.com/a/ExB9zR8) title='Project2' width='' alt='Video Demo' />
-
-
-
+https://www.loom.com/share/ee9e30bc2e2547bbbae902cf93404834?sid=c2c7f9b4-56ec-426e-9f22-179f76c5fc68
 
 GIF created online. 
 
