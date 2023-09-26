@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-https://www.loom.com/share/ee9e30bc2e2547bbbae902cf93404834?sid=c2c7f9b4-56ec-426e-9f22-179f76c5fc68
+https://www.loom.com/share/3122a383c0eb41b8aba8331683424a0f?sid=f780fe81-c234-4ea5-965f-c20b1f7369d0
 
 GIF created online. 
 
